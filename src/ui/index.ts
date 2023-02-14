@@ -1,0 +1,1 @@
+export const indexPage = () => "Hello there !"
